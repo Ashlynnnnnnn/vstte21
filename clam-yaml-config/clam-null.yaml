@@ -1,0 +1,42 @@
+clam_options:
+# CLANG
+#
+  '-g' : ''
+# Optimization level for seaopt  
+  '-O3': ''
+#   
+# PREPROCESSING
+#
+  lower-unsigned-icmp : ''
+  llvm-peel-loops: '1'
+  devirt-functions: 'sea-dsa'
+  crab-name-values: false
+#  
+# ANALYSIS
+#
+  crab-dom : 'fast-sign-const'
+  crab-inter : ''
+  crab-inter-recursive-functions : true
+  crab-inter-exact-summary-reuse : false
+  crab-inter-max-summaries : '9999999'
+  crab-inter-entry-main : true
+  crab-track : 'mem'
+  crab-singleton-aliases : ''
+  crab-heap-analysis : 'cs-sea-dsa-types'
+  crab-narrowing-iterations: '1'
+  crab-widening-delay: '2'
+  crab-widening-jump-set: '0'
+  crab-preserve-invariants: false
+#
+# CHECKER
+#
+  crab-check: 'null'
+# crab-check-only-typed: true  
+#
+# OUTPUT
+#
+# crab-sanity-checks : ''
+  crab-disable-warnings: ''
+  crab-print-invariants : false
+  crab-print-voi : false
+# crab-stats: ''
