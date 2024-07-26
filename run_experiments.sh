@@ -2,12 +2,12 @@
 
 source config.sh
 
-CLAM_CMD=./clam-install/bin/clam-yaml.py 
+CLAM_CMD=/clam
 
 ALL_MEM="-y ./clam-yaml-config/clam-null.yaml"
 RBMM_COMPLIANT="-y ./clam-yaml-config/clam-null.yaml -y ./clam-yaml-config/clam-null-only-typed.yaml"
 
-declare -a bitcode=("bftpd.bc" "brotli.bc" "curl.bc" "thttpd.bc" "vsftpd.bc")
+declare -a bitcode=("curl.bc" "thttpd.bc")
 for bc in "${bitcode[@]}"
 do
     bc="${INSTALL_BITCODE}/$bc"
@@ -23,7 +23,7 @@ for bc in "${bitcode[@]}"
 do
     echo "----------------------------------------"
     echo "$bc"
-    echo "----------------------------------------"    
+    echo "----------------------------------------"
     bc="${INSTALL_BITCODE}/$bc"
     echo "All Memory"
     ./read_results.py ${bc}.all.crabir
@@ -33,4 +33,4 @@ done
 
 exit 0
 
-    
+
