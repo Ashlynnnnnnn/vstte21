@@ -1,0 +1,181 @@
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  1  130k    1  2665    0     0   3233      0  0:00:41 --:--:--  0:00:41  3230  7  130k    7  9905    0     0   4184      0  0:00:32  0:00:02  0:00:30  4184  7  130k    7  9905    0     0   2940      0  0:00:45  0:00:03  0:00:42  2940  7  130k    7  9905    0     0   2266      0  0:00:59  0:00:04  0:00:55  2267  7  130k    7  9905    0     0   1844      0  0:01:12  0:00:05  0:01:07  1844 21  130k   21 28729    0     0   4570      0  0:00:29  0:00:06  0:00:23  4772 23  130k   23 31625    0     0   4185      0  0:00:32  0:00:07  0:00:25  4186 23  130k   23 31625    0     0   3696      0  0:00:36  0:00:08  0:00:28  4187 23  130k   23 31625    0     0   3309      0  0:00:40  0:00:09  0:00:31  4187 29  130k   29 38865    0     0   3977      0  0:00:33  0:00:09  0:00:24  6578 32  130k   32 43209    0     0   3819      0  0:00:35  0:00:11  0:00:24  2880 33  130k   33 44657    0     0   3671      0  0:00:36  0:00:12  0:00:24  2828 43  130k   43 57689    0     0   4547      0  0:00:29  0:00:12  0:00:17  6310 43  130k   43 57689    0     0   4214      0  0:00:31  0:00:13  0:00:18  6310 49  130k   49 66377    0     0   4265      0  0:00:31  0:00:15  0:00:16  4751 56  130k   56 75065    0     0   4716      0  0:00:28  0:00:15  0:00:13  6920 56  130k   56 75065    0     0   4437      0  0:00:30  0:00:16  0:00:14  6394 58  130k   58 77961    0     0   4397      0  0:00:30  0:00:17  0:00:13  4019 63  130k   63 85201    0     0   4539      0  0:00:29  0:00:18  0:00:11  5415 72  130k   72 96785    0     0   4887      0  0:00:27  0:00:19  0:00:08  7171 77  130k   77  101k    0     0   4929      0  0:00:27  0:00:21  0:00:06  5585 81  130k   81  107k    0     0   4959      0  0:00:27  0:00:22  0:00:05  6653 83  130k   83  108k    0     0   4752      0  0:00:28  0:00:23  0:00:05  5863 87  130k   87  114k    0     0   4841      0  0:00:27  0:00:24  0:00:03  5889 91  130k   91  119k    0     0   4970      0  0:00:26  0:00:24  0:00:02  5304 98  130k   98  128k    0     0   5102      0  0:00:26  0:00:25  0:00:01  5883 98  130k   98  128k    0     0   4912      0  0:00:27  0:00:26  0:00:01  4683 98  130k   98  128k    0     0   4735      0  0:00:28  0:00:27  0:00:01  4638 98  130k   98  128k    0     0   4570      0  0:00:29  0:00:28  0:00:01  3144100  130k  100  130k    0     0   4643      0  0:00:28  0:00:28 --:--:--  2693
+thttpd-2.27/
+thttpd-2.27/match.h
+thttpd-2.27/Makefile.in
+thttpd-2.27/mmc.c
+thttpd-2.27/README
+thttpd-2.27/mime_encodings.txt
+thttpd-2.27/mime_types.txt
+thttpd-2.27/libhttpd.c
+thttpd-2.27/config.guess
+thttpd-2.27/install-sh
+thttpd-2.27/tdate_parse.c
+thttpd-2.27/thttpd.8
+thttpd-2.27/aclocal.m4
+thttpd-2.27/fdwatch.c
+thttpd-2.27/version.h
+thttpd-2.27/configure
+thttpd-2.27/TODO
+thttpd-2.27/timers.c
+thttpd-2.27/libhttpd.h
+thttpd-2.27/contrib/
+thttpd-2.27/extras/
+thttpd-2.27/strerror.c
+thttpd-2.27/mmc.h
+thttpd-2.27/match.c
+thttpd-2.27/FILES
+thttpd-2.27/timers.h
+thttpd-2.27/INSTALL
+thttpd-2.27/config.h
+thttpd-2.27/configure.in
+thttpd-2.27/cgi-src/
+thttpd-2.27/index.html
+thttpd-2.27/fdwatch.h
+thttpd-2.27/thttpd.c
+thttpd-2.27/scripts/
+thttpd-2.27/config.sub
+thttpd-2.27/tdate_parse.h
+thttpd-2.27/cgi-bin/
+thttpd-2.27/cgi-bin/printenv
+thttpd-2.27/scripts/500.thttpd-rotate
+thttpd-2.27/scripts/thttpd_wrapper
+thttpd-2.27/scripts/thttpd.sh
+thttpd-2.27/cgi-src/ssi.8
+thttpd-2.27/cgi-src/phf.c
+thttpd-2.27/cgi-src/redirect.8
+thttpd-2.27/cgi-src/ssi.c
+thttpd-2.27/cgi-src/redirect.c
+thttpd-2.27/cgi-src/Makefile.in
+thttpd-2.27/extras/syslogtocern
+thttpd-2.27/extras/makeweb.c
+thttpd-2.27/extras/Makefile.in
+thttpd-2.27/extras/htpasswd.1
+thttpd-2.27/extras/syslogtocern.8
+thttpd-2.27/extras/htpasswd.c
+thttpd-2.27/extras/makeweb.1
+thttpd-2.27/contrib/redhat-rpm/
+thttpd-2.27/contrib/redhat-rpm/thttpd.conf
+thttpd-2.27/contrib/redhat-rpm/thttpd.init
+thttpd-2.27/contrib/redhat-rpm/thttpd.spec
+creating cache ./config.cache
+checking host system type... i686-pc-none
+checking target system type... i686-pc-none
+checking build system type... i686-pc-none
+checking for gcc... gclang
+checking whether the C compiler (gclang -g ) works... yes
+checking whether the C compiler (gclang -g ) is a cross-compiler... no
+checking whether we are using GNU C... yes
+checking whether gclang accepts -g... yes
+checking gcc version... WARNING:Did not recognize the compiler flag: -dumpversion
+14
+./configure: 869: test: Illegal number: WARNING:Did not recognize the compiler flag: -dumpversion
+14
+checking how to link static binaries... unknown
+checking for __progname... yes
+checking how to run the C preprocessor... gclang -E
+checking for fcntl.h... yes
+checking for grp.h... yes
+checking for memory.h... yes
+checking for paths.h... yes
+checking for poll.h... yes
+checking for sys/poll.h... yes
+checking for sys/devpoll.h... no
+checking for sys/event.h... no
+checking for osreldate.h... no
+checking whether time.h and sys/time.h may both be included... yes
+checking for dirent.h that defines DIR... yes
+checking for opendir in -ldir... no
+checking for /usr/local/v6/lib... no
+checking for gethostbyname... yes
+checking for socket... yes
+checking for main in -linet6... no
+checking for crypt... no
+checking for crypt in -lcrypt... yes
+checking for hstrerror... yes
+checking for strerror... yes
+checking for waitpid... yes
+checking for vsnprintf... yes
+checking for daemon... yes
+checking for setsid... yes
+checking for setlogin... no
+checking for getaddrinfo... yes
+checking for getnameinfo... yes
+checking for gai_strerror... yes
+checking for kqueue... no
+checking for sigset... yes
+checking for atoll... yes
+checking for unistd.h... yes
+checking for getpagesize... yes
+checking for working mmap... yes
+checking for select... yes
+checking for poll... yes
+checking if struct tm has tm_gmtoff member... yes
+checking if int64_t exists... yes
+checking if socklen_t exists... yes
+checking whether make sets ${MAKE}... yes
+checking for a BSD compatible install... /usr/bin/install -c
+updating cache ./config.cache
+creating ./config.status
+creating Makefile
+creating cgi-src/Makefile
+creating extras/Makefile
+gclang -O -DHAVE__PROGNAME=1 -DHAVE_FCNTL_H=1 -DHAVE_GRP_H=1 -DHAVE_MEMORY_H=1 -DHAVE_PATHS_H=1 -DHAVE_POLL_H=1 -DHAVE_SYS_POLL_H=1 -DTIME_WITH_SYS_TIME=1 -DHAVE_DIRENT_H=1 -DHAVE_LIBCRYPT=1 -DHAVE_STRERROR=1 -DHAVE_WAITPID=1 -DHAVE_VSNPRINTF=1 -DHAVE_DAEMON=1 -DHAVE_SETSID=1 -DHAVE_GETADDRINFO=1 -DHAVE_GETNAMEINFO=1 -DHAVE_GAI_STRERROR=1 -DHAVE_SIGSET=1 -DHAVE_ATOLL=1 -DHAVE_UNISTD_H=1 -DHAVE_GETPAGESIZE=1 -DHAVE_MMAP=1 -DHAVE_SELECT=1 -DHAVE_POLL=1 -DHAVE_TM_GMTOFF=1 -DHAVE_INT64T=1 -DHAVE_SOCKLENT=1  -I. -c thttpd.c
+thttpd.c:611:12: warning: implicit declaration of function 'sigset' is invalid in C99 [-Wimplicit-function-declaration]
+    (void) sigset( SIGTERM, handle_term );
+           ^
+thttpd.c:611:12: warning: implicit declaration of function 'sigset' is invalid in C99 [-Wimplicit-function-declaration]
+    (void) sigset( SIGTERM, handle_term );
+           ^
+1 warning generated.
+1 warning generated.
+rm -f mime_encodings.h
+sed < mime_encodings.txt > mime_encodings.h \
+  -e 's/#.*//' -e 's/[ 	]*$//' -e '/^$/d' \
+  -e 's/[ 	][ 	]*/", 0, "/' -e 's/^/{ "/' -e 's/$/", 0 },/'
+rm -f mime_types.h
+sed < mime_types.txt > mime_types.h \
+  -e 's/#.*//' -e 's/[ 	]*$//' -e '/^$/d' \
+  -e 's/[ 	][ 	]*/", 0, "/' -e 's/^/{ "/' -e 's/$/", 0 },/'
+gclang -O -DHAVE__PROGNAME=1 -DHAVE_FCNTL_H=1 -DHAVE_GRP_H=1 -DHAVE_MEMORY_H=1 -DHAVE_PATHS_H=1 -DHAVE_POLL_H=1 -DHAVE_SYS_POLL_H=1 -DTIME_WITH_SYS_TIME=1 -DHAVE_DIRENT_H=1 -DHAVE_LIBCRYPT=1 -DHAVE_STRERROR=1 -DHAVE_WAITPID=1 -DHAVE_VSNPRINTF=1 -DHAVE_DAEMON=1 -DHAVE_SETSID=1 -DHAVE_GETADDRINFO=1 -DHAVE_GETNAMEINFO=1 -DHAVE_GAI_STRERROR=1 -DHAVE_SIGSET=1 -DHAVE_ATOLL=1 -DHAVE_UNISTD_H=1 -DHAVE_GETPAGESIZE=1 -DHAVE_MMAP=1 -DHAVE_SELECT=1 -DHAVE_POLL=1 -DHAVE_TM_GMTOFF=1 -DHAVE_INT64T=1 -DHAVE_SOCKLENT=1  -I. -c libhttpd.c
+libhttpd.c:3548:12: warning: implicit declaration of function 'sigset' is invalid in C99 [-Wimplicit-function-declaration]
+    (void) sigset( SIGPIPE, SIG_DFL );
+           ^
+libhttpd.c:3548:12: warning: implicit declaration of function 'sigset' is invalid in C99 [-Wimplicit-function-declaration]
+    (void) sigset( SIGPIPE, SIG_DFL );
+           ^
+1 warning generated.
+1 warning generated.
+gclang -O -DHAVE__PROGNAME=1 -DHAVE_FCNTL_H=1 -DHAVE_GRP_H=1 -DHAVE_MEMORY_H=1 -DHAVE_PATHS_H=1 -DHAVE_POLL_H=1 -DHAVE_SYS_POLL_H=1 -DTIME_WITH_SYS_TIME=1 -DHAVE_DIRENT_H=1 -DHAVE_LIBCRYPT=1 -DHAVE_STRERROR=1 -DHAVE_WAITPID=1 -DHAVE_VSNPRINTF=1 -DHAVE_DAEMON=1 -DHAVE_SETSID=1 -DHAVE_GETADDRINFO=1 -DHAVE_GETNAMEINFO=1 -DHAVE_GAI_STRERROR=1 -DHAVE_SIGSET=1 -DHAVE_ATOLL=1 -DHAVE_UNISTD_H=1 -DHAVE_GETPAGESIZE=1 -DHAVE_MMAP=1 -DHAVE_SELECT=1 -DHAVE_POLL=1 -DHAVE_TM_GMTOFF=1 -DHAVE_INT64T=1 -DHAVE_SOCKLENT=1  -I. -c fdwatch.c
+gclang -O -DHAVE__PROGNAME=1 -DHAVE_FCNTL_H=1 -DHAVE_GRP_H=1 -DHAVE_MEMORY_H=1 -DHAVE_PATHS_H=1 -DHAVE_POLL_H=1 -DHAVE_SYS_POLL_H=1 -DTIME_WITH_SYS_TIME=1 -DHAVE_DIRENT_H=1 -DHAVE_LIBCRYPT=1 -DHAVE_STRERROR=1 -DHAVE_WAITPID=1 -DHAVE_VSNPRINTF=1 -DHAVE_DAEMON=1 -DHAVE_SETSID=1 -DHAVE_GETADDRINFO=1 -DHAVE_GETNAMEINFO=1 -DHAVE_GAI_STRERROR=1 -DHAVE_SIGSET=1 -DHAVE_ATOLL=1 -DHAVE_UNISTD_H=1 -DHAVE_GETPAGESIZE=1 -DHAVE_MMAP=1 -DHAVE_SELECT=1 -DHAVE_POLL=1 -DHAVE_TM_GMTOFF=1 -DHAVE_INT64T=1 -DHAVE_SOCKLENT=1  -I. -c mmc.c
+gclang -O -DHAVE__PROGNAME=1 -DHAVE_FCNTL_H=1 -DHAVE_GRP_H=1 -DHAVE_MEMORY_H=1 -DHAVE_PATHS_H=1 -DHAVE_POLL_H=1 -DHAVE_SYS_POLL_H=1 -DTIME_WITH_SYS_TIME=1 -DHAVE_DIRENT_H=1 -DHAVE_LIBCRYPT=1 -DHAVE_STRERROR=1 -DHAVE_WAITPID=1 -DHAVE_VSNPRINTF=1 -DHAVE_DAEMON=1 -DHAVE_SETSID=1 -DHAVE_GETADDRINFO=1 -DHAVE_GETNAMEINFO=1 -DHAVE_GAI_STRERROR=1 -DHAVE_SIGSET=1 -DHAVE_ATOLL=1 -DHAVE_UNISTD_H=1 -DHAVE_GETPAGESIZE=1 -DHAVE_MMAP=1 -DHAVE_SELECT=1 -DHAVE_POLL=1 -DHAVE_TM_GMTOFF=1 -DHAVE_INT64T=1 -DHAVE_SOCKLENT=1  -I. -c timers.c
+gclang -O -DHAVE__PROGNAME=1 -DHAVE_FCNTL_H=1 -DHAVE_GRP_H=1 -DHAVE_MEMORY_H=1 -DHAVE_PATHS_H=1 -DHAVE_POLL_H=1 -DHAVE_SYS_POLL_H=1 -DTIME_WITH_SYS_TIME=1 -DHAVE_DIRENT_H=1 -DHAVE_LIBCRYPT=1 -DHAVE_STRERROR=1 -DHAVE_WAITPID=1 -DHAVE_VSNPRINTF=1 -DHAVE_DAEMON=1 -DHAVE_SETSID=1 -DHAVE_GETADDRINFO=1 -DHAVE_GETNAMEINFO=1 -DHAVE_GAI_STRERROR=1 -DHAVE_SIGSET=1 -DHAVE_ATOLL=1 -DHAVE_UNISTD_H=1 -DHAVE_GETPAGESIZE=1 -DHAVE_MMAP=1 -DHAVE_SELECT=1 -DHAVE_POLL=1 -DHAVE_TM_GMTOFF=1 -DHAVE_INT64T=1 -DHAVE_SOCKLENT=1  -I. -c match.c
+gclang -O -DHAVE__PROGNAME=1 -DHAVE_FCNTL_H=1 -DHAVE_GRP_H=1 -DHAVE_MEMORY_H=1 -DHAVE_PATHS_H=1 -DHAVE_POLL_H=1 -DHAVE_SYS_POLL_H=1 -DTIME_WITH_SYS_TIME=1 -DHAVE_DIRENT_H=1 -DHAVE_LIBCRYPT=1 -DHAVE_STRERROR=1 -DHAVE_WAITPID=1 -DHAVE_VSNPRINTF=1 -DHAVE_DAEMON=1 -DHAVE_SETSID=1 -DHAVE_GETADDRINFO=1 -DHAVE_GETNAMEINFO=1 -DHAVE_GAI_STRERROR=1 -DHAVE_SIGSET=1 -DHAVE_ATOLL=1 -DHAVE_UNISTD_H=1 -DHAVE_GETPAGESIZE=1 -DHAVE_MMAP=1 -DHAVE_SELECT=1 -DHAVE_POLL=1 -DHAVE_TM_GMTOFF=1 -DHAVE_INT64T=1 -DHAVE_SOCKLENT=1  -I. -c tdate_parse.c
+gclang -O -DHAVE__PROGNAME=1 -DHAVE_FCNTL_H=1 -DHAVE_GRP_H=1 -DHAVE_MEMORY_H=1 -DHAVE_PATHS_H=1 -DHAVE_POLL_H=1 -DHAVE_SYS_POLL_H=1 -DTIME_WITH_SYS_TIME=1 -DHAVE_DIRENT_H=1 -DHAVE_LIBCRYPT=1 -DHAVE_STRERROR=1 -DHAVE_WAITPID=1 -DHAVE_VSNPRINTF=1 -DHAVE_DAEMON=1 -DHAVE_SETSID=1 -DHAVE_GETADDRINFO=1 -DHAVE_GETNAMEINFO=1 -DHAVE_GAI_STRERROR=1 -DHAVE_SIGSET=1 -DHAVE_ATOLL=1 -DHAVE_UNISTD_H=1 -DHAVE_GETPAGESIZE=1 -DHAVE_MMAP=1 -DHAVE_SELECT=1 -DHAVE_POLL=1 -DHAVE_TM_GMTOFF=1 -DHAVE_INT64T=1 -DHAVE_SOCKLENT=1  -I.  -o thttpd thttpd.o libhttpd.o fdwatch.o mmc.o timers.o match.o tdate_parse.o  -lcrypt  
+for i in cgi-src extras ; do ( \
+    cd $i ; \
+    pwd ; \
+    make  \
+	WEBDIR=/usr/local/www \
+	CGIBINDIR=/usr/local/www/cgi-bin \
+	MANDIR=/usr/local/man \
+	WEBGROUP=www \
+) ; done
+/home/ashlynsun/vstte21/thttpd-2.27/cgi-src
+make[1]: Entering directory '/home/ashlynsun/vstte21/thttpd-2.27/cgi-src'
+gclang -O -DHAVE__PROGNAME=1 -DHAVE_FCNTL_H=1 -DHAVE_GRP_H=1 -DHAVE_MEMORY_H=1 -DHAVE_PATHS_H=1 -DHAVE_POLL_H=1 -DHAVE_SYS_POLL_H=1 -DTIME_WITH_SYS_TIME=1 -DHAVE_DIRENT_H=1 -DHAVE_LIBCRYPT=1 -DHAVE_STRERROR=1 -DHAVE_WAITPID=1 -DHAVE_VSNPRINTF=1 -DHAVE_DAEMON=1 -DHAVE_SETSID=1 -DHAVE_GETADDRINFO=1 -DHAVE_GETNAMEINFO=1 -DHAVE_GAI_STRERROR=1 -DHAVE_SIGSET=1 -DHAVE_ATOLL=1 -DHAVE_UNISTD_H=1 -DHAVE_GETPAGESIZE=1 -DHAVE_MMAP=1 -DHAVE_SELECT=1 -DHAVE_POLL=1 -DHAVE_TM_GMTOFF=1 -DHAVE_INT64T=1 -DHAVE_SOCKLENT=1  -I.. -c redirect.c
+gclang   redirect.o -lcrypt  -o redirect
+gclang -O -DHAVE__PROGNAME=1 -DHAVE_FCNTL_H=1 -DHAVE_GRP_H=1 -DHAVE_MEMORY_H=1 -DHAVE_PATHS_H=1 -DHAVE_POLL_H=1 -DHAVE_SYS_POLL_H=1 -DTIME_WITH_SYS_TIME=1 -DHAVE_DIRENT_H=1 -DHAVE_LIBCRYPT=1 -DHAVE_STRERROR=1 -DHAVE_WAITPID=1 -DHAVE_VSNPRINTF=1 -DHAVE_DAEMON=1 -DHAVE_SETSID=1 -DHAVE_GETADDRINFO=1 -DHAVE_GETNAMEINFO=1 -DHAVE_GAI_STRERROR=1 -DHAVE_SIGSET=1 -DHAVE_ATOLL=1 -DHAVE_UNISTD_H=1 -DHAVE_GETPAGESIZE=1 -DHAVE_MMAP=1 -DHAVE_SELECT=1 -DHAVE_POLL=1 -DHAVE_TM_GMTOFF=1 -DHAVE_INT64T=1 -DHAVE_SOCKLENT=1  -I.. -c ssi.c
+gclang   ssi.o ../match.o -lcrypt  -o ssi
+gclang -O -DHAVE__PROGNAME=1 -DHAVE_FCNTL_H=1 -DHAVE_GRP_H=1 -DHAVE_MEMORY_H=1 -DHAVE_PATHS_H=1 -DHAVE_POLL_H=1 -DHAVE_SYS_POLL_H=1 -DTIME_WITH_SYS_TIME=1 -DHAVE_DIRENT_H=1 -DHAVE_LIBCRYPT=1 -DHAVE_STRERROR=1 -DHAVE_WAITPID=1 -DHAVE_VSNPRINTF=1 -DHAVE_DAEMON=1 -DHAVE_SETSID=1 -DHAVE_GETADDRINFO=1 -DHAVE_GETNAMEINFO=1 -DHAVE_GAI_STRERROR=1 -DHAVE_SIGSET=1 -DHAVE_ATOLL=1 -DHAVE_UNISTD_H=1 -DHAVE_GETPAGESIZE=1 -DHAVE_MMAP=1 -DHAVE_SELECT=1 -DHAVE_POLL=1 -DHAVE_TM_GMTOFF=1 -DHAVE_INT64T=1 -DHAVE_SOCKLENT=1  -I.. -c phf.c
+gclang   phf.o -lcrypt  -o phf
+make[1]: Leaving directory '/home/ashlynsun/vstte21/thttpd-2.27/cgi-src'
+/home/ashlynsun/vstte21/thttpd-2.27/extras
+make[1]: Entering directory '/home/ashlynsun/vstte21/thttpd-2.27/extras'
+gclang -O -DHAVE__PROGNAME=1 -DHAVE_FCNTL_H=1 -DHAVE_GRP_H=1 -DHAVE_MEMORY_H=1 -DHAVE_PATHS_H=1 -DHAVE_POLL_H=1 -DHAVE_SYS_POLL_H=1 -DTIME_WITH_SYS_TIME=1 -DHAVE_DIRENT_H=1 -DHAVE_LIBCRYPT=1 -DHAVE_STRERROR=1 -DHAVE_WAITPID=1 -DHAVE_VSNPRINTF=1 -DHAVE_DAEMON=1 -DHAVE_SETSID=1 -DHAVE_GETADDRINFO=1 -DHAVE_GETNAMEINFO=1 -DHAVE_GAI_STRERROR=1 -DHAVE_SIGSET=1 -DHAVE_ATOLL=1 -DHAVE_UNISTD_H=1 -DHAVE_GETPAGESIZE=1 -DHAVE_MMAP=1 -DHAVE_SELECT=1 -DHAVE_POLL=1 -DHAVE_TM_GMTOFF=1 -DHAVE_INT64T=1 -DHAVE_SOCKLENT=1  -I.. -DWEBDIR=\"/usr/local/www\" -c makeweb.c
+gclang  makeweb.o -o makeweb -lcrypt  
+gclang -O -DHAVE__PROGNAME=1 -DHAVE_FCNTL_H=1 -DHAVE_GRP_H=1 -DHAVE_MEMORY_H=1 -DHAVE_PATHS_H=1 -DHAVE_POLL_H=1 -DHAVE_SYS_POLL_H=1 -DTIME_WITH_SYS_TIME=1 -DHAVE_DIRENT_H=1 -DHAVE_LIBCRYPT=1 -DHAVE_STRERROR=1 -DHAVE_WAITPID=1 -DHAVE_VSNPRINTF=1 -DHAVE_DAEMON=1 -DHAVE_SETSID=1 -DHAVE_GETADDRINFO=1 -DHAVE_GETNAMEINFO=1 -DHAVE_GAI_STRERROR=1 -DHAVE_SIGSET=1 -DHAVE_ATOLL=1 -DHAVE_UNISTD_H=1 -DHAVE_GETPAGESIZE=1 -DHAVE_MMAP=1 -DHAVE_SELECT=1 -DHAVE_POLL=1 -DHAVE_TM_GMTOFF=1 -DHAVE_INT64T=1 -DHAVE_SOCKLENT=1  -I.. -DWEBDIR=\"/usr/local/www\" -c htpasswd.c
+gclang   htpasswd.o -o htpasswd -lcrypt 
+make[1]: Leaving directory '/home/ashlynsun/vstte21/thttpd-2.27/extras'
+Bitcode file extracted to: thttpd.bc.

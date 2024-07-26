@@ -12,13 +12,13 @@ cp clam.h ${CURL}
 cp clam_rt.a ${CURL}
 cd ${CURL}
 
-if [[ "$OSTYPE" == "darwin"* ]]; then
-    ./buildconf
-    CC=gclang CFLAGS="-g" ./configure --prefix=${INSTALL_DIR}
-    make && make install
-    get-bc ${INSTALL_DIR}/bin/curl 
-    cp ${INSTALL_DIR}/bin/curl.bc ${INSTALL_BITCODE}/curl.bc
-else
-    echo "Recipe only for MacOS"
-fi
+# if [[ "$OSTYPE" == "darwin"* ]]; then
+./buildconf
+CC=gclang CFLAGS="-g" ./configure --prefix=${INSTALL_DIR}
+make && make install
+get-bc ${INSTALL_DIR}/bin/curl
+cp ${INSTALL_DIR}/bin/curl.bc ${INSTALL_BITCODE}/curl.bc
+# else
+#     echo "Recipe only for MacOS"
+# fi
 
