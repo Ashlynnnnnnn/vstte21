@@ -2,7 +2,7 @@
 
 source config.sh
 
-CLAM_CMD=/clam
+CLAM_CMD=~/clam/build/run/bin/clam-yaml.py
 
 ALL_MEM="-y ./clam-yaml-config/clam-null.yaml"
 RBMM_COMPLIANT="-y ./clam-yaml-config/clam-null.yaml -y ./clam-yaml-config/clam-null-only-typed.yaml"

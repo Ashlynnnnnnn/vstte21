@@ -2,19 +2,19 @@ clam_options:
 # CLANG
 #
   '-g' : ''
-# Optimization level for seaopt  
+# Optimization level for seaopt
   '-O3': ''
-#   
+#
 # PREPROCESSING
 #
   lower-unsigned-icmp : ''
   llvm-peel-loops: '1'
   devirt-functions: 'sea-dsa'
   crab-name-values: false
-#  
+#
 # ANALYSIS
 #
-  crab-dom : 'fast-sign-const'
+  crab-dom : 'int'
   crab-inter : ''
   crab-inter-recursive-functions : true
   crab-inter-exact-summary-reuse : false
@@ -31,7 +31,7 @@ clam_options:
 # CHECKER
 #
   crab-check: 'null'
-# crab-check-only-typed: true  
+# crab-check-only-typed: true
 #
 # OUTPUT
 #
